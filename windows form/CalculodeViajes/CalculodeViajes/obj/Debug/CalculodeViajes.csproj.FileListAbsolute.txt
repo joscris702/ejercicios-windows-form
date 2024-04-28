@@ -1,0 +1,20 @@
+C:\Users\Lahor\Documents\Third Semester\TASKS OF ALL THE COURSES\PROGRAMACION 1\TareaWindowsForm1\CalculodeViajes\CalculodeViajes\bin\Debug\CalculodeViajes.exe.config
+C:\Users\Lahor\Documents\Third Semester\TASKS OF ALL THE COURSES\PROGRAMACION 1\TareaWindowsForm1\CalculodeViajes\CalculodeViajes\bin\Debug\CalculodeViajes.exe
+C:\Users\Lahor\Documents\Third Semester\TASKS OF ALL THE COURSES\PROGRAMACION 1\TareaWindowsForm1\CalculodeViajes\CalculodeViajes\bin\Debug\CalculodeViajes.pdb
+C:\Users\Lahor\Documents\Third Semester\TASKS OF ALL THE COURSES\PROGRAMACION 1\TareaWindowsForm1\CalculodeViajes\CalculodeViajes\obj\Debug\CalculodeViajes.csproj.AssemblyReference.cache
+C:\Users\Lahor\Documents\Third Semester\TASKS OF ALL THE COURSES\PROGRAMACION 1\TareaWindowsForm1\CalculodeViajes\CalculodeViajes\obj\Debug\CalculodeViajes.Form1.resources
+C:\Users\Lahor\Documents\Third Semester\TASKS OF ALL THE COURSES\PROGRAMACION 1\TareaWindowsForm1\CalculodeViajes\CalculodeViajes\obj\Debug\CalculodeViajes.Properties.Resources.resources
+C:\Users\Lahor\Documents\Third Semester\TASKS OF ALL THE COURSES\PROGRAMACION 1\TareaWindowsForm1\CalculodeViajes\CalculodeViajes\obj\Debug\CalculodeViajes.csproj.GenerateResource.cache
+C:\Users\Lahor\Documents\Third Semester\TASKS OF ALL THE COURSES\PROGRAMACION 1\TareaWindowsForm1\CalculodeViajes\CalculodeViajes\obj\Debug\CalculodeViajes.csproj.CoreCompileInputs.cache
+C:\Users\Lahor\Documents\Third Semester\TASKS OF ALL THE COURSES\PROGRAMACION 1\TareaWindowsForm1\CalculodeViajes\CalculodeViajes\obj\Debug\CalculodeViajes.exe
+C:\Users\Lahor\Documents\Third Semester\TASKS OF ALL THE COURSES\PROGRAMACION 1\TareaWindowsForm1\CalculodeViajes\CalculodeViajes\obj\Debug\CalculodeViajes.pdb
+C:\Users\josec\OneDrive\Escritorio\windows form\CalculodeViajes\CalculodeViajes\bin\Debug\CalculodeViajes.exe.config
+C:\Users\josec\OneDrive\Escritorio\windows form\CalculodeViajes\CalculodeViajes\bin\Debug\CalculodeViajes.exe
+C:\Users\josec\OneDrive\Escritorio\windows form\CalculodeViajes\CalculodeViajes\bin\Debug\CalculodeViajes.pdb
+C:\Users\josec\OneDrive\Escritorio\windows form\CalculodeViajes\CalculodeViajes\obj\Debug\CalculodeViajes.csproj.AssemblyReference.cache
+C:\Users\josec\OneDrive\Escritorio\windows form\CalculodeViajes\CalculodeViajes\obj\Debug\CalculodeViajes.Form1.resources
+C:\Users\josec\OneDrive\Escritorio\windows form\CalculodeViajes\CalculodeViajes\obj\Debug\CalculodeViajes.Properties.Resources.resources
+C:\Users\josec\OneDrive\Escritorio\windows form\CalculodeViajes\CalculodeViajes\obj\Debug\CalculodeViajes.csproj.GenerateResource.cache
+C:\Users\josec\OneDrive\Escritorio\windows form\CalculodeViajes\CalculodeViajes\obj\Debug\CalculodeViajes.csproj.CoreCompileInputs.cache
+C:\Users\josec\OneDrive\Escritorio\windows form\CalculodeViajes\CalculodeViajes\obj\Debug\CalculodeViajes.exe
+C:\Users\josec\OneDrive\Escritorio\windows form\CalculodeViajes\CalculodeViajes\obj\Debug\CalculodeViajes.pdb

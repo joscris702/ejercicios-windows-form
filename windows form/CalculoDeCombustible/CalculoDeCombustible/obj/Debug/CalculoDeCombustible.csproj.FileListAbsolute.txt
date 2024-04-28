@@ -1,0 +1,20 @@
+C:\Users\Lahor\Documents\Third Semester\TASKS OF ALL THE COURSES\PROGRAMACION 1\TareaWindowsForm1\CalculoDeCombustible\CalculoDeCombustible\bin\Debug\CalculoDeCombustible.exe.config
+C:\Users\Lahor\Documents\Third Semester\TASKS OF ALL THE COURSES\PROGRAMACION 1\TareaWindowsForm1\CalculoDeCombustible\CalculoDeCombustible\bin\Debug\CalculoDeCombustible.exe
+C:\Users\Lahor\Documents\Third Semester\TASKS OF ALL THE COURSES\PROGRAMACION 1\TareaWindowsForm1\CalculoDeCombustible\CalculoDeCombustible\bin\Debug\CalculoDeCombustible.pdb
+C:\Users\Lahor\Documents\Third Semester\TASKS OF ALL THE COURSES\PROGRAMACION 1\TareaWindowsForm1\CalculoDeCombustible\CalculoDeCombustible\obj\Debug\CalculoDeCombustible.csproj.AssemblyReference.cache
+C:\Users\Lahor\Documents\Third Semester\TASKS OF ALL THE COURSES\PROGRAMACION 1\TareaWindowsForm1\CalculoDeCombustible\CalculoDeCombustible\obj\Debug\CalculoDeCombustible.Form1.resources
+C:\Users\Lahor\Documents\Third Semester\TASKS OF ALL THE COURSES\PROGRAMACION 1\TareaWindowsForm1\CalculoDeCombustible\CalculoDeCombustible\obj\Debug\CalculoDeCombustible.Properties.Resources.resources
+C:\Users\Lahor\Documents\Third Semester\TASKS OF ALL THE COURSES\PROGRAMACION 1\TareaWindowsForm1\CalculoDeCombustible\CalculoDeCombustible\obj\Debug\CalculoDeCombustible.csproj.GenerateResource.cache
+C:\Users\Lahor\Documents\Third Semester\TASKS OF ALL THE COURSES\PROGRAMACION 1\TareaWindowsForm1\CalculoDeCombustible\CalculoDeCombustible\obj\Debug\CalculoDeCombustible.csproj.CoreCompileInputs.cache
+C:\Users\Lahor\Documents\Third Semester\TASKS OF ALL THE COURSES\PROGRAMACION 1\TareaWindowsForm1\CalculoDeCombustible\CalculoDeCombustible\obj\Debug\CalculoDeCombustible.exe
+C:\Users\Lahor\Documents\Third Semester\TASKS OF ALL THE COURSES\PROGRAMACION 1\TareaWindowsForm1\CalculoDeCombustible\CalculoDeCombustible\obj\Debug\CalculoDeCombustible.pdb
+C:\Users\josec\OneDrive\Escritorio\windows form\CalculoDeCombustible\CalculoDeCombustible\bin\Debug\CalculoDeCombustible.exe.config
+C:\Users\josec\OneDrive\Escritorio\windows form\CalculoDeCombustible\CalculoDeCombustible\bin\Debug\CalculoDeCombustible.exe
+C:\Users\josec\OneDrive\Escritorio\windows form\CalculoDeCombustible\CalculoDeCombustible\bin\Debug\CalculoDeCombustible.pdb
+C:\Users\josec\OneDrive\Escritorio\windows form\CalculoDeCombustible\CalculoDeCombustible\obj\Debug\CalculoDeCombustible.csproj.AssemblyReference.cache
+C:\Users\josec\OneDrive\Escritorio\windows form\CalculoDeCombustible\CalculoDeCombustible\obj\Debug\CalculoDeCombustible.Form1.resources
+C:\Users\josec\OneDrive\Escritorio\windows form\CalculoDeCombustible\CalculoDeCombustible\obj\Debug\CalculoDeCombustible.Properties.Resources.resources
+C:\Users\josec\OneDrive\Escritorio\windows form\CalculoDeCombustible\CalculoDeCombustible\obj\Debug\CalculoDeCombustible.csproj.GenerateResource.cache
+C:\Users\josec\OneDrive\Escritorio\windows form\CalculoDeCombustible\CalculoDeCombustible\obj\Debug\CalculoDeCombustible.csproj.CoreCompileInputs.cache
+C:\Users\josec\OneDrive\Escritorio\windows form\CalculoDeCombustible\CalculoDeCombustible\obj\Debug\CalculoDeCombustible.exe
+C:\Users\josec\OneDrive\Escritorio\windows form\CalculoDeCombustible\CalculoDeCombustible\obj\Debug\CalculoDeCombustible.pdb
